@@ -1,0 +1,55 @@
+class KeywordsExample{
+    public static void main(String[] args){
+        System.out.println("keyword volatile");
+        System.out.println("keyword int");
+        System.out.println("keyword abstract");
+        System.out.println("keyword while");
+        System.out.println("keyword static");
+        System.out.println("keyword boolean");
+        System.out.println("keyword try");
+        System.out.println("keyword extends");
+        System.out.println("keyword break");
+        System.out.println("keyword private");
+        System.out.println("keyword double");
+        System.out.println("keyword if");
+        System.out.println("keyword finally");
+        System.out.println("keyword super");
+        System.out.println("keyword byte");
+        System.out.println("keyword switch");
+        System.out.println("keyword this");
+        System.out.println("keyword throw");
+        System.out.println("keyword protected");
+        System.out.println("keyword long");
+        System.out.println("keyword enum");
+        System.out.println("keyword continue");
+        System.out.println("keyword assert");
+        System.out.println("keyword case");
+        System.out.println("keyword new");
+        System.out.println("keyword return");
+        System.out.println("keyword short");
+        System.out.println("keyword catch");
+        System.out.println("keyword class");
+        System.out.println("keyword public");
+        System.out.println("keyword default");
+        System.out.println("keyword do");
+        System.out.println("keyword float");
+        System.out.println("keyword for");
+        System.out.println("keyword goto");
+        System.out.println("keyword implements");
+        System.out.println("keyword import");
+        System.out.println("keyword instanceof");
+        System.out.println("keyword interface");
+        System.out.println("keyword native");
+        System.out.println("keyword package");
+        System.out.println("keyword strictfp");
+        System.out.println("keyword synchronized");
+        System.out.println("keyword throws");
+        System.out.println("keyword transient");
+        System.out.println("keyword void");
+        System.out.println("keyword else");
+        System.out.println("keyword final");
+        System.out.println("keyword const");
+        System.out.println("keyword char");
+
+    }
+}
